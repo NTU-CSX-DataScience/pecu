@@ -1,0 +1,46 @@
+---
+title: "HW1"
+author: "Student ID, Pecu"
+date: "2017年9月14日"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## 題目：台大世界排名探討
+
+資料源：
+
+1. 世界大學排名組織 https://www.timeshighereducation.com/world-university-rankings/2018/world-ranking#!/page/0/length/25/sort_by/rank/sort_order/asc/cols/stats
+2. 台大預算 2013 ~ 2016
+http://www.ntuacc.ntu.edu.tw/chief/chief8_list.jsp?rc_id=RC1183366129393
+
+圖表呈現方式
+
+1. 年度經費使用狀況 (歷年折線圖)
+2. 世界大學經費提供比較 (亞洲區經費比較, 折線圖)
+
+異質來源新表產生
+關聯關鍵：亞洲各國行政區
+各國 GDP, 稅收, 其他指標...
+各校於該國的經費占比
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
