@@ -1,7 +1,7 @@
 ---
 title: "HW1"
 author: "Student ID, Pecu"
-date: "2017¦~9¤ë14¤é"
+date: "2017å¹´9æœˆ14æ—¥"
 output: html_document
 ---
 
@@ -9,23 +9,23 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## ÃD¥Ø¡G¥x¤j¥@¬É±Æ¦W±´°Q
+## é¡Œç›®ï¼šå°å¤§ä¸–ç•Œæ’åæ¢è¨
 
-¸ê®Æ·½¡G
+è³‡æ–™æºï¼š
 
-1. ¥@¬É¤j¾Ç±Æ¦W²ÕÂ´ https://www.timeshighereducation.com/world-university-rankings/2018/world-ranking#!/page/0/length/25/sort_by/rank/sort_order/asc/cols/stats
-2. ¥x¤j¹wºâ 2013 ~ 2016
+1. ä¸–ç•Œå¤§å­¸æ’åçµ„ç¹” https://www.timeshighereducation.com/world-university-rankings/2018/world-ranking#!/page/0/length/25/sort_by/rank/sort_order/asc/cols/stats
+2. å°å¤§é ç®— 2013 ~ 2016
 http://www.ntuacc.ntu.edu.tw/chief/chief8_list.jsp?rc_id=RC1183366129393
 
-¹Ïªí§e²{¤è¦¡
+åœ–è¡¨å‘ˆç¾æ–¹å¼ï¼š
 
-1. ¦~«×¸g¶O¨Ï¥Îª¬ªp (¾ú¦~§é½u¹Ï)
-2. ¥@¬É¤j¾Ç¸g¶O´£¨Ñ¤ñ¸û (¨È¬w°Ï¸g¶O¤ñ¸û, §é½u¹Ï)
+1. å¹´åº¦ç¶“è²»ä½¿ç”¨ç‹€æ³ (æ­·å¹´æŠ˜ç·šåœ–)
+2. ä¸–ç•Œå¤§å­¸ç¶“è²»æä¾›æ¯”è¼ƒ (äºæ´²å€ç¶“è²»æ¯”è¼ƒ, æŠ˜ç·šåœ–)
 
-²§½è¨Ó·½·sªí²£¥Í
-ÃöÁpÃöÁä¡G¨È¬w¦U°ê¦æ¬F°Ï
-¦U°ê GDP, µ|¦¬, ¨ä¥L«ü¼Ğ...
-¦U®Õ©ó¸Ó°êªº¸g¶O¥e¤ñ
+ç•°è³ªä¾†æºæ–°è¡¨ç”¢ç”Ÿ
+é—œè¯é—œéµï¼šäºæ´²å„åœ‹è¡Œæ”¿å€
+å„åœ‹ GDP, ç¨…æ”¶, å…¶ä»–æŒ‡æ¨™...
+å„æ ¡æ–¼è©²åœ‹çš„ç¶“è²»å æ¯”
 
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
