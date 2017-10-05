@@ -6,7 +6,7 @@
 
 3. ggplot2 範例程式：ggplotExamples.r
 
-4. ggmap 整合 dplyr 範例程式：joinTest.zip
+4. ggmap 整合 dplyr 範例程式：mapGPStest.html, joinTest.zip
 
 5. 文字探勘範例程式：textMining.Rmd, textMining.html, TextMining.zip, MLDM.zip, DSML.zip
 
