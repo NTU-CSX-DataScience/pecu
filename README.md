@@ -11,3 +11,7 @@
 5. 文字探勘範例程式：textMining.Rmd, textMining.html, TextMining.zip, MLDM.zip, DSML.zip
 
 6. 樂陞公司相關資料 (使用於文字探勘範例)：3362.pdf, 3662.xlsx
+
+7. apriori 範例：ARule.R
+
+8. Decision Tree 範例：DTree.R
