@@ -12,6 +12,6 @@
 
 6. 樂陞公司相關資料 (使用於文字探勘範例)：3362.pdf, 3662.xlsx
 
-7. apriori 範例：ARule.R
+7. apriori 範例：ARule.R, titanic.raw.rdata
 
-8. Decision Tree 範例：DTree.R
+8. Decision Tree 範例：DTree.R, titanic.raw.rdata
