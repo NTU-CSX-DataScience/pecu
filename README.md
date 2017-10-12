@@ -8,10 +8,12 @@
 
 4. ggmap 整合 dplyr 範例程式：mapGPStest.html, joinTest.zip
 
-5. 文字探勘範例程式：textMining.Rmd, textMining.html, TextMining.zip, MLDM.zip, DSML.zip
+5. apply and define function 範例程式：applyTest.r
 
-6. 樂陞公司相關資料 (使用於文字探勘範例)：3362.pdf, 3662.xlsx
+6. 文字探勘範例程式：textMining.Rmd, textMining.html, TextMining.zip, MLDM.zip, DSML.zip
 
-7. apriori 範例：ARule.R, titanic.raw.rdata
+7. 樂陞公司相關資料 (使用於文字探勘範例)：3362.pdf, 3662.xlsx
 
-8. Decision Tree 範例：DTree.R, titanic.raw.rdata
+8. apriori 範例：ARule.R, titanic.raw.rdata
+
+9. Decision Tree 範例：DTree.R, titanic.raw.rdata
