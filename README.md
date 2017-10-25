@@ -10,10 +10,12 @@
 
 5. apply and define function 範例程式：applyTest.r
 
-6. 文字探勘範例程式：textMining.Rmd, textMining.html, TextMining.zip, MLDM.zip, DSML.zip
+6. 爬蟲程式範例：house.r
 
-7. 樂陞公司相關資料 (使用於文字探勘範例)：3362.pdf, 3662.xlsx
+7. 文字探勘範例程式：textMining.Rmd, textMining.html, TextMining.zip, MLDM.zip, DSML.zip
 
-8. apriori 範例：ARule.R, titanic.raw.rdata
+8. 樂陞公司相關資料 (使用於文字探勘範例)：3362.pdf, 3662.xlsx
 
-9. Decision Tree 範例：DTree.R, titanic.raw.rdata
+9. apriori 範例：ARule.R, titanic.raw.rdata
+
+10. Decision Tree 範例：DTree.R, titanic.raw.rdata
