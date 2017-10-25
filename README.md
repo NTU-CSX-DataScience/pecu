@@ -10,7 +10,7 @@
 
 5. apply and define function 範例程式：applyTest.r
 
-6. 爬蟲程式範例：house.r
+6. 爬蟲程式範例：house.r, https://github.com/NTU-CSX-DataScience/RCrawler101-201504/blob/master/CaseStudies/Case7FacebookAPI/try.R
 
 7. 文字探勘範例程式：textMining.Rmd, textMining.html, TextMining.zip, MLDM.zip, DSML.zip
 
