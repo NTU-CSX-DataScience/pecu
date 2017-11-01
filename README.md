@@ -14,8 +14,10 @@
 
 7. 文字探勘範例程式：textMining.Rmd, textMining.html, TextMining.zip, MLDM.zip, DSML.zip
 
-8. 樂陞公司相關資料 (使用於文字探勘範例)：3362.pdf, 3662.xlsx
+8. kmeans 分群範例程式：kmeans.R, DSML.zip
 
-9. apriori 範例：ARule.R, titanic.raw.rdata
+9. 樂陞公司相關資料 (使用於文字探勘範例)：3362.pdf, 3662.xlsx
 
-10. Decision Tree 範例：DTree.R, titanic.raw.rdata
+10. apriori 範例：ARule.R, titanic.raw.rdata
+
+11. Decision Tree 範例：DTree.R, titanic.raw.rdata
