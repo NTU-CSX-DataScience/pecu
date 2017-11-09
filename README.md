@@ -16,8 +16,10 @@
 
 8. kmeans 分群範例程式：kmeans.R, DSML.zip
 
-9. 樂陞公司相關資料 (使用於文字探勘範例)：3362.pdf, 3662.xlsx
+9. PCA & SVM：DSML.zip
 
-10. apriori 範例：ARule.R, titanic.raw.rdata
+10. 樂陞公司相關資料 (使用於文字探勘範例)：3362.pdf, 3662.xlsx
 
-11. Decision Tree 範例：DTree.R, titanic.raw.rdata
+11. apriori 範例：ARule.R, titanic.raw.rdata
+
+12. Decision Tree 範例：DTree.R, titanic.raw.rdata
