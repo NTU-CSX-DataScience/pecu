@@ -18,8 +18,10 @@
 
 9. PCA & SVM：DSML.zip
 
-10. 樂陞公司相關資料 (使用於文字探勘範例)：3362.pdf, 3662.xlsx
+10. 雙變數分析：airpollution.zip, teacher.zip
 
-11. apriori 範例：ARule.R, titanic.raw.rdata
+11. 樂陞公司相關資料 (使用於文字探勘範例)：3362.pdf, 3662.xlsx
 
-12. Decision Tree 範例：DTree.R, titanic.raw.rdata
+12. apriori 範例：ARule.R, titanic.raw.rdata
+
+13. Decision Tree 範例：DTree.R, titanic.raw.rdata
