@@ -1,4 +1,4 @@
-# pecu
+# pecu https://pecu.shinyapps.io/pecuTest/
 
 1. 第一個 RMarkdown 範例程式：hw1.Rmd, hw1.html
 
