@@ -20,7 +20,7 @@
 
 10. 雙變數分析：airpollution.zip, teacher.zip
 
-11. 樂陞公司相關資料 (使用於文字探勘範例)：3362.pdf, 3662.xlsx
+11. 會計財報分析相關資料 (使用於文字探勘範例)：3362.pdf, 3662.xlsx, AccountingData.zip
 
 12. apriori 範例：ARule.R, titanic.raw.rdata
 
