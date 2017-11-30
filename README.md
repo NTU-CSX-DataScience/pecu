@@ -26,4 +26,4 @@
 
 13. Decision Tree 範例：DTree.R, titanic.raw.rdata
 
-14. Shiny 範例：pecuTest.zip
+14. Shiny 範例：pecuTest.zip, shinyFunction.zip
