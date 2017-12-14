@@ -29,3 +29,5 @@
 14. Shiny 範例：pecuTest.zip, shinyFunction.zip
 
 15. package 範例：MyFunctions_0.1.0.zip
+
+16. deep learning 範例：nn.zip
